@@ -5,7 +5,7 @@ Indium is an addon for the rendering optimisation mod [Sodium](https://modrinth.
 ## What mods require Indium?
 Any mod that uses the Fabric Rendering API will require Indium when used with Sodium. These include: Campanion, Exotic Blocks, Bits and Chisels, LambdaBetterGrass,
 ConnectedTexturesMod for Fabric, Packages, and many more. Some of these mods may function without an implementation of the Fabric Rendering API, but have broken textures and models.
-
+a
 ## Does Indium affect performance?
 Indium's impact on performance should be negligible, however mods that use the Fabric Rendering API could themselves impact performance. Indium will not provide a performance benefit over using only Sodium.
 
